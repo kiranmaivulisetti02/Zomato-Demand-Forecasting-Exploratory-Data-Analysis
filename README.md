@@ -117,8 +117,7 @@ Key Business Insights
 ```
 ├── README.md
 ├── Zomato_EDA_LSTM_Forecasting.ipynb
-└── data/
-    └── Zomato-data.csv
+└── Zomato-data.csv
 ```
 
 ---
@@ -153,6 +152,4 @@ Aspiring Data Analyst / ML Associate
 * Deploy model using Flask or FastAPI
 * Automate forecasting pipeline
 
----
 
-⭐ If you find this project useful, feel free to star the repository!
