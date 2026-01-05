@@ -115,9 +115,8 @@ Key Business Insights
 ## Repository Structure
 
 ```
-├── Zomato_EDA_LSTM_Forecasting.ipynb
-├── Zomato_Final_Report.pdf
 ├── README.md
+├── Zomato_EDA_LSTM_Forecasting.ipynb
 └── data/
     └── Zomato-data.csv
 ```
